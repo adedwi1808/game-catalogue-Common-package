@@ -1,0 +1,14 @@
+"home_title" = "Game List";
+"favorite_title" = "Favorite List";
+"about_title" = "About Me";
+"error_title" = "Error";
+"ok_action" = "OK";
+"failed_fetch_data" = "Failed to fetch data";
+"save_action" = "Save";
+"genre_label" = "Genre";
+"release_date_label" = "Release Date";
+"developers_label" = "Developers";
+"vote_suffix" = "Vote";
+"people_suffix" = "People";
+"favorite_label" = "Favorite";
+"description_label" = "Description";

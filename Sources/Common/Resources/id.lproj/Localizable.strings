@@ -1,0 +1,14 @@
+"home_title" = "Daftar Game";
+"favorite_title" = "Daftar Favorit";
+"about_title" = "Tentang Saya";
+"error_title" = "Error";
+"ok_action" = "OK";
+"failed_fetch_data" = "Gagal mengambil data";
+"save_action" = "Simpan";
+"genre_label" = "Genre";
+"release_date_label" = "Tanggal Rilis";
+"developers_label" = "Pengembang";
+"vote_suffix" = "Suara";
+"people_suffix" = "Orang";
+"favorite_label" = "Favorit";
+"description_label" = "Deskripsi";
